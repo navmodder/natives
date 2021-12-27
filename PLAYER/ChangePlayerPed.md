@@ -5,12 +5,12 @@ ns: PLAYER
 
 ```c
 // 0x048189FAC643DEEE 0xBE515485
-void CHANGE_PLAYER_PED(Player player, Ped ped, BOOL b2, BOOL resetDamage);
+void CHANGE_PLAYER_PED(Player player, Ped ped, BOOL Network, BOOL resetDamage);
 ```
 
 ## Parameters
 * **player**: 
 * **ped**: 
-* **b2**: 
+* **Networked**: 
 * **resetDamage**: 
 
